@@ -161,7 +161,7 @@ Finalmente con respecto el diseño del prototipo , es muy buena idea comenzar ha
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-
+![](P3/logotipo.jpeg)
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
