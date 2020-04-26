@@ -112,7 +112,7 @@ Una aplicación que permita la comunicación entre las personas que van a realiz
 -----
 Aqui se encuentra el diagrama que se puede seguir a la hora de entrar en la aplicación en forma de gráfica desde la pantalla principal. 
 
-![](P2/sitemap2.0.png)
+![](P2/sitemap2.0.jpeg)
 
 Por aqui mostramos una tabla con las posibles tareas que puedan utilizar los usuarios y la cantidad de veces que se hará, marcando H -> high , M -> medium , L -> low
 
