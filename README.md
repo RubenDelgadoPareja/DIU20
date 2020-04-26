@@ -163,7 +163,7 @@ Finalmente con respecto el diseño del prototipo , es muy buena idea comenzar ha
 ----
 Prototipo del logotipo
 ![](P3/logotipo.jpeg)
-
+Se ha utilizado photoshop para hacer el logotipo
 ICONO:
 ![](P3/ICONtravelGram.png)
 
