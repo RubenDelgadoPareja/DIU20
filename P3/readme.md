@@ -37,6 +37,7 @@ Esta sección esta hecha por si se llegase a desarrollar la página web , ademá
    4. La barra de búsqueda: Al igual que en el diseño de la app , consiste en colocar la barra de búsqueda en un lugar llamativo, aunque en las páginas web suele ser una barra de búsqueda de Google.
 
 ## Historia en Video del UX Case Study
+Enlace al video: 
 
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
