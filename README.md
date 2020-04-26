@@ -7,7 +7,7 @@ Proyecto: TravelGram
 
 Descripción: Aplicación donde principalmente se publican imagenes y videos de los viajes de los usuarios a distintos lugares del mundo, pudiendo crearse chats para quedadas o viajes grupales.
 
-Logotipo: 
+Logotipo: ![](P3/PREVIEW-LOGO+ICON.png)
 
 Miembros
  * :bust_in_silhouette:   Rubén Delgado Pareja    :octocat:     
@@ -161,7 +161,13 @@ Finalmente con respecto el diseño del prototipo , es muy buena idea comenzar ha
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
+Prototipo del logotipo
 ![](P3/logotipo.jpeg)
+ICONO:
+![](P3/travelGram.png)
+LOGO:
+![](P3/LOGOtravelGram.png)
+
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
