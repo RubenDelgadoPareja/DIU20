@@ -207,8 +207,8 @@ Esta sección esta hecha por si se llegase a desarrollar la página web , ademá
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
-
-![Video](P3/VideoDIU.mov)
+Enlace al video:
+https://drive.google.com/file/d/1OnBCsLkwCshqcKennnPzaRkIabggnYOw/view?usp=sharing
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
