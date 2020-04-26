@@ -163,8 +163,10 @@ Finalmente con respecto el diseño del prototipo , es muy buena idea comenzar ha
 ----
 Prototipo del logotipo
 ![](P3/logotipo.jpeg)
+
 ICONO:
-![](P3/travelGram.png)
+![](P3/ICONtravelGram.png)
+
 LOGO:
 ![](P3/LOGOtravelGram.png)
 
