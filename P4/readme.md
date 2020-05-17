@@ -38,8 +38,33 @@ Descripcion y hoja de valoración.
 
 
 ## Caso 3
+---
+>>>
+DIU3.Mayko:
 
-Descripcion y hoja de valoración.   
+El grupo Mayko se encarga de desarrollar una pequeña aplicación donde personas con los mismos gustos pueden hacer quedadas
+y conocerse entre ellos. En este caso el ocio es la gastronomía aunque este tema se dispersa.
+
+Los principales puntos fuertes de este proyecto son:
+
+-Explicacion de los bocetos: A pesar de que el diseño no sea muy bonito , los bocetos tienen buena estructura y están 
+correctamente explicados
+
+-Logotipo : Me parece muy buen logotipo y sencillo.
+
+-Video: Muy bueno , se nota que se ha trabajado y se explica muy bien
+
+
+Los puntos débiles son:
+
+-Readme : Todos los Readme del github tienen enlaces a los pdf, pero estos pdf no se consiguen ver. He tenido que ir por todas las carpetas para encontrar las partes del proyecto
+
+-Journey Map: No se tenian realmente problemas del diseño de la aplicación
+
+-User Task: No explica el tipo de usuario que hace uso de la aplicación
+
+![Evaluación](DIU3.Mayko_review.pdf)
+
 
 ## User Testing
 
