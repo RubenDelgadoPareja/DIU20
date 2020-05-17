@@ -89,11 +89,20 @@ Los puntos débiles son:
 
 ## User Testing
 
-	Describe la experiencia 1
+Experiencia 1:
 
-	Describe la experiencia 2
+Ben decide hacer un viaje a España debido a que tiene las vacaciones. Pero no quiere gastarse mucho dinero y 
+prefiere compartir el viaje con otras personas. De modo que hace uso de la aplicación Tabi Travel. Esta aplicación
+le ayudará a organizar el viaje, aunque no entiende correctamente el funcionamiento de la aplicación y no es capazar 
+de usarla, le parece poco intuitiva en algunos aspectos. Llama al servicio de soporte de la aplicación para aclarar 
+sus dudas y consigue planificar el viaje perfectamene.
 
-	Describe la experiencia 3
+Experiencia 2:
+
+
+Experiencia 3:
+
+Ben es un apasionado de la gastronimia españolad ebido a que le encanta España y por eso viaja tanto, por lo que quiere conocer más gente que le guste la gastronomía y le recomiendan una aplicación nueva llamada Recetup . La descarga y la encuentra llamativa pero no entiende el sistema de la aplicación y como hacer quedadas asi que pide ayuda al amigo que se lo recomendó y consigue hacer una quedada para probar distinto tipo de comida.
 
 
 ## Conclusiones
