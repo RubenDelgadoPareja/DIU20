@@ -13,20 +13,20 @@ compartir experiencias nuevas.
 
 Los principales puntos fuertes de este proyecto son:
 
--Wireframe y los bocetos
+-Wireframe y los bocetos: Explican correctamente el funcionamiento de la aplicación y tiene un buen diseño.
 
--Logotipo 
+-Logotipo : Bastante original y sencillo.
 
--Labelling y Task Map
+-Labelling y Task Map: Muy bien explicado y desarrollado con sencillez y facilidad
 
 
 Los puntos débiles son:
 
--Competitive Analysis
+-Competitive Analysis: Muy pobre , explica poco
 
--Usability Review
+-Usability Review: Muy poco detallado
 
--Propuesta de la aplicación en el futuro
+-Propuesta de la aplicación en el futuro: No se especifica
 
 ![Evaluación](DIU1.QWERTY_review.pdf)
 
