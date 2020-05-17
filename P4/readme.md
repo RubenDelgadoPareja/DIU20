@@ -97,3 +97,8 @@ Los puntos débiles son:
 
 
 ## Conclusiones
+
+Ranking:
+1- DIU2.pserrano
+2- DIU3.Mayko
+3- DIU1. QWERTY
