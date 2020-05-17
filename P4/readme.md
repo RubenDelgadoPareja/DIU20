@@ -33,9 +33,30 @@ Los puntos débiles son:
 
 
 ## Caso 2
+---
+>>>
+DIU2.pserrano:
 
-Descripcion y hoja de valoración.  
+El grupo pserrano se encarga de desarrollar una aplicación que ayuda a buscar estancia durante un tiempo, aportandote
+información de la estancia y del dueño de dicha estancia 
 
+Ventajas: 
+
+-Explicacion detallada del proceso que se ha seguido para el diseño de la app
+
+-Review de la aplicación original bastante elaborada y bien hecha
+ 
+-Site Map bastante bien pensado
+
+Desventajas: 
+
+-Bocetos iniciales bastante pobres
+
+-Logotipo muy simple y que no llama la atención
+
+-La matriz de tareas no esta bien enfocada, ya que solo considera los usuarios registrados y los que no lo estan, pero no considera los tipos de personas que pueden usar la aplicación
+
+![Evaluación](DIU2.pserrano_review.pdf)
 
 ## Caso 3
 ---
