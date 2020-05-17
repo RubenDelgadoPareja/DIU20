@@ -17,7 +17,7 @@ Los puntos débiles son:
 -Usability Review
 -Propuesta de la aplicación en el futuro
 
-![Evaluación](P4/DIU1.QWERTY_review.pdf)
+![Evaluación](DIU1.QWERTY_review.pdf)
 
 
 
