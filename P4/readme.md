@@ -9,7 +9,9 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 DIU1.QWERTY:
 
 El grupo QWERTY se encarga de desarrollar una aplicación donde distintos viajantes pueden encontrar gente nueva con la que 
-compartir experiencias nuevas. Los principales puntos fuertes de este proyecto son:
+compartir experiencias nuevas. 
+
+Los principales puntos fuertes de este proyecto son:
 
 -Wireframe y los bocetos
 
