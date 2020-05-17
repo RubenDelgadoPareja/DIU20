@@ -86,6 +86,13 @@ Los puntos débiles son:
 
 ![Evaluación](DIU3.Mayko_review.pdf)
 
+Ranking:
+
+1- DIU2.pserrano
+
+2- DIU3.Mayko
+
+3- DIU1. QWERTY
 
 ## User Testing
 
@@ -106,11 +113,6 @@ Ben es un apasionado de la gastronimia españolad ebido a que le encanta España
 
 
 ## Conclusiones
+En conclusión se nota principalmente que las primeras prácticas estaban más incompletas respecto a las siguientes prácticas y se puede apreciar una gran evolución en todo el proyecto de todos los grupos. También tengo que añadir que los proyectos
+que lo han hecho una sola persona han tenido más trabajo que otros grupos. En general , se nota que estamos aprendiendo correctamente como diseñar y llevar a cabo el desarrollo de una pequeña aplicación
 
-Ranking:
-
-1- DIU2.pserrano
-
-2- DIU3.Mayko
-
-3- DIU1. QWERTY
