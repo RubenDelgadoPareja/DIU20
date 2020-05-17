@@ -106,6 +106,30 @@ sus dudas y consigue planificar el viaje perfectamene.
 
 Experiencia 2:
 
+Quiero hacer un viaje con mi novio, dentro de España pero últimamente no tenemos 
+mucho dinero, por lo que estuve hablando con él y decidimos que lo mejor sería 
+compartir un piso con alguien en vez de ir a un hotel, así ahorraríamos un poco 
+de dinero para poder gastarlo en otras cosas durante el viaje. 
+
+Un día al llegar de mi trabajo, mientras hablaba con mi novio me dijo que había
+encontrado una aplicación para buscar una casa o piso compartido, se llamaba 
+HabitShare.
+
+Fuí a descargármela en mi iPhone y me di cuenta de que no estaba en la AppStore, 
+entonces tuve que pedirle el móvil a mi novio para descargarme la aplicación.
+Cuando me la descargué no me llamo la atención por el icono tan poco llamativo
+que tenía, pero al abrirla me sorpendí con la cantidad de color que tenía, lo 
+fácil que era de utilizar y lo bien organizada que estaba.
+
+Busqué el destino al que teníamos pensador ir y me salieron todos los pisos y 
+casas que se compartían en la zona. Encontré uno que me llamó la atención, entré 
+en el foro de la persona que ofrecía el piso y me convenció
+
+Para hablarle a la persona que puso la propuesta tuve que registrarme en la app.
+
+Después de hablar con la persona llegamos a un acuerdo para quedarnos en su casa
+y la forma de pago.
+
 
 Experiencia 3:
 
